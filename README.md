@@ -1,6 +1,6 @@
 # Airdrop Auto Accept
 <p align="center">
-  <img src="https://github.com/Vinpasso/Airdrop-Auto-Accept/blob/main/res/logo.svg?raw=true" alt="Airdrop Auto Accept Logo"/>
+  <img src="https://github.com/Vinpasso/Airdrop-Auto-Accept/blob/main/res/logo_export.svg?raw=true" alt="Airdrop Auto Accept Logo"/>
 </p>
 
 Script to automatically accept incoming files via Airdrop without user interaction.
