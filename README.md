@@ -1,8 +1,14 @@
 # Airdrop Auto Accept
-![Logo](res/logo.svg)
+<p align="center">
+  <img src="https://github.com/Vinpasso/Airdrop-Auto-Accept/blob/main/res/logo.svg?raw=true" alt="Airdrop Auto Accept Logo"/>
+</p>
 
 Script to automatically accept incoming files via Airdrop without user interaction.
 This script is designed to run on macOS and requires the preinstalled `osascript` command-line tool to interact with the system's GUI.
+
+## Disclaimer
+
+This script will allow anyone/your contacts (depending on your Airdrop and Bluetooth settings) to send files to your Mac without your explicit consent. This can be a security risk, as it may allow unwanted  or malicious files to be sent to your device. Use this script at your own risk and ensure that you trust the files that you are accepting.
 
 ## Setup
 
